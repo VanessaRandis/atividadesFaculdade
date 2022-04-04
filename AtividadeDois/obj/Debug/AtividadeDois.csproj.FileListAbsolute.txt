@@ -1,0 +1,8 @@
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeDois\bin\Debug\AtividadeDois.exe.config
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeDois\bin\Debug\AtividadeDois.exe
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeDois\bin\Debug\AtividadeDois.pdb
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeDois\obj\Debug\AtividadeDois.csproj.AssemblyReference.cache
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeDois\obj\Debug\AtividadeDois.csproj.SuggestedBindingRedirects.cache
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeDois\obj\Debug\AtividadeDois.csproj.CoreCompileInputs.cache
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeDois\obj\Debug\AtividadeDois.exe
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeDois\obj\Debug\AtividadeDois.pdb

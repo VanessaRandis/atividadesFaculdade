@@ -1,0 +1,8 @@
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeTres\bin\Debug\AtividadeTres.exe.config
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeTres\bin\Debug\AtividadeTres.exe
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeTres\bin\Debug\AtividadeTres.pdb
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeTres\obj\Debug\AtividadeTres.csproj.AssemblyReference.cache
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeTres\obj\Debug\AtividadeTres.csproj.SuggestedBindingRedirects.cache
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeTres\obj\Debug\AtividadeTres.csproj.CoreCompileInputs.cache
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeTres\obj\Debug\AtividadeTres.exe
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeTres\obj\Debug\AtividadeTres.pdb

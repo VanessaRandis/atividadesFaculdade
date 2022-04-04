@@ -1,0 +1,8 @@
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeQuatro\obj\Debug\AtividadeQuatro.csproj.AssemblyReference.cache
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeQuatro\obj\Debug\AtividadeQuatro.csproj.SuggestedBindingRedirects.cache
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeQuatro\obj\Debug\AtividadeQuatro.csproj.CoreCompileInputs.cache
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeQuatro\bin\Debug\AtividadeQuatro.exe.config
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeQuatro\bin\Debug\AtividadeQuatro.exe
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeQuatro\bin\Debug\AtividadeQuatro.pdb
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeQuatro\obj\Debug\AtividadeQuatro.exe
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeQuatro\obj\Debug\AtividadeQuatro.pdb

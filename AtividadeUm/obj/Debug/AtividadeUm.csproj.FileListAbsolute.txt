@@ -1,0 +1,8 @@
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeUm\bin\Debug\AtividadeUm.exe.config
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeUm\bin\Debug\AtividadeUm.exe
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeUm\bin\Debug\AtividadeUm.pdb
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeUm\obj\Debug\AtividadeUm.csproj.AssemblyReference.cache
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeUm\obj\Debug\AtividadeUm.csproj.SuggestedBindingRedirects.cache
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeUm\obj\Debug\AtividadeUm.csproj.CoreCompileInputs.cache
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeUm\obj\Debug\AtividadeUm.exe
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeUm\obj\Debug\AtividadeUm.pdb
