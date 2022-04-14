@@ -1,0 +1,8 @@
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeOitoFinal\bin\Debug\AtividadeOitoFinal.exe.config
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeOitoFinal\bin\Debug\AtividadeOitoFinal.exe
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeOitoFinal\bin\Debug\AtividadeOitoFinal.pdb
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeOitoFinal\obj\Debug\AtividadeOitoFinal.csproj.AssemblyReference.cache
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeOitoFinal\obj\Debug\AtividadeOitoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeOitoFinal\obj\Debug\AtividadeOitoFinal.csproj.CoreCompileInputs.cache
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeOitoFinal\obj\Debug\AtividadeOitoFinal.exe
+C:\Users\vanes\source\repos\AtividadeUm\AtividadeOitoFinal\obj\Debug\AtividadeOitoFinal.pdb

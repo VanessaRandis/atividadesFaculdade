@@ -46,10 +46,16 @@ namespace AtividadeQuatro
                     Console.WriteLine("Resultado : "+res);
                     break;
 
-                case 4:
-                    res = num_1 / num_2;
-                    Console.WriteLine("Resultado :" + res);
+                default:
+                    
+                    if(num_2==0)
+                        Console.WriteLine("Não é possível fazer a operação por 0");
+                    else { 
+                        res=num_1/num_2;
+                        Console.WriteLine(res);
+                        }
                     break;
+
 
      
             }
